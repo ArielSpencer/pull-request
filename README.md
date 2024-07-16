@@ -1,5 +1,7 @@
 ![Static Badge](https://img.shields.io/badge/Ariel%20Spencer-Pull%20request-%238732D7) ![GitHub License](https://img.shields.io/github/license/arielspencer/pull-request)
 
+![Como fazer pull request](https://github.com/ArielSpencer/pull-request/blob/3794c174051013dfd3c1fc3028ada86aaf1fb0e2/como-fazer-pull-request-github-capa.png)
+
 # Como Fazer um Pull Request
 
 _Pull request_ é uma forma de contribuir para projetos de código aberto. Eles permitem que você envie suas alterações para revisão e possível inclusão no repositório principal.
